@@ -18,6 +18,12 @@ One of the challenges in HAR is that even if the same activity is performed, sen
 In this work, we will develop a multi-task CNN that outputs both the activity performed and the smartphone position.
 The basic assumption is that both tasks can benefit from having shared lower level features, especially because of the limited amount of training data. 
 
+__Due to the size of the file, Github doesn't always open the Deep-HAR.ipynb notebook.__ 
+<br>
+__Please download the file or use the following nbviewer link:__
+<br>
+https://nbviewer.jupyter.org/github/matygr/multi-task-HAR/blob/master/notebooks/Deep-HAR.ipynb#Refs
+
 The dataset used can be found in the following link under "Sensors activity dataset":
 
 https://www.utwente.nl/en/eemcs/ps/research/dataset/
