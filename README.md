@@ -22,7 +22,7 @@ __Due to the size of the file, Github doesn't always open the Deep-HAR.ipynb not
 <br>
 __Please download the file or use the following nbviewer link:__
 <br>
-https://nbviewer.jupyter.org/github/matygr/multi-task-HAR/blob/master/notebooks/Deep-HAR.ipynb#Refs
+https://nbviewer.jupyter.org/github/matygr/multi-task-HAR/blob/master/notebooks/Deep-HAR.ipynb
 
 The dataset used can be found in the following link under "Sensors activity dataset":
 
